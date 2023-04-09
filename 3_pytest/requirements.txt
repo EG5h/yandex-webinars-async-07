@@ -1,0 +1,8 @@
+uvicorn==0.21.1
+fastapi==0.95.0
+pydantic[dotenv]==1.10.7
+
+SQLAlchemy[postgresql_asyncpg]==2.0.9
+
+httpx==0.23.3
+cached-property==1.5.2
